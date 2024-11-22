@@ -1,1 +1,0 @@
-# Artificial Intelligence and Deep Learning from scratch in Python
