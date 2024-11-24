@@ -1,3 +1,10 @@
+
+"""
+Se quiere implementar una neurona M-P que decida si se puede ir al cine o no.
+Para ello, se le preguntan al usuario 4 preguntas, cuyas respuestas son 0 o 1.
+La neurona M-P decide si se puede ir al cine o no, en función de si la suma de las respuestas es mayor o igual a 2.
+"""
+
 QUESTIONS = [
     "It's the weekend? ",
     "I have homework to do? ",
